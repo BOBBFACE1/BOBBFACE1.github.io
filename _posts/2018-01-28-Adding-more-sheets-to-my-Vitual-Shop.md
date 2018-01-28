@@ -10,3 +10,4 @@ This week, I prepared my virtual shop to be expanded. I moved the buying part of
 
 This has prepared my document so that I will be able to add discounts, and other spendings to find out the true profit of my shop, and my own wage, after paying staff ect.
 
+<iframe height="405px" width="1120px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQoF-WND7TxbcH_fMH5zqx6rM-DhzeYmk6MBZIOUduS5YIjI1IrvFrZ6Ylng8ei5X7HrGZ0XiCbMrjA/pubhtml?widget=true&amp;headers=false"></iframe>
